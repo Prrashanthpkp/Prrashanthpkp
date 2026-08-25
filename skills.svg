@@ -1,0 +1,51 @@
+<svg width="500" height="290" viewBox="0 0 500 290" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, sans-serif; fill: #c9f7d4; }
+    .label { font-size: 14px; font-weight: 600; }
+    .pct   { font-size: 12px; fill: #7ee787; }
+    .track { fill: #10231a; }
+    .bar   { fill: url(#grad); rx: 6; }
+    @keyframes grow { from { width: 0; } }
+    .b1 { animation: grow 1.4s cubic-bezier(.2,.8,.2,1) forwards; }
+    .b2 { animation: grow 1.4s .15s cubic-bezier(.2,.8,.2,1) forwards; }
+    .b3 { animation: grow 1.4s .30s cubic-bezier(.2,.8,.2,1) forwards; }
+    .b4 { animation: grow 1.4s .45s cubic-bezier(.2,.8,.2,1) forwards; }
+    .b5 { animation: grow 1.4s .60s cubic-bezier(.2,.8,.2,1) forwards; }
+  </style>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#238636"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+
+  <!-- HTML/CSS -->
+  <text class="label" x="0" y="26">HTML &amp; CSS</text>
+  <text class="pct" x="470" y="26" text-anchor="end">95%</text>
+  <rect class="track" x="0" y="34" width="470" height="14" rx="7"/>
+  <rect class="bar b1" x="0" y="34" width="446" height="14" rx="7"/>
+
+  <!-- Bootstrap -->
+  <text class="label" x="0" y="78">Bootstrap</text>
+  <text class="pct" x="470" y="78" text-anchor="end">85%</text>
+  <rect class="track" x="0" y="86" width="470" height="14" rx="7"/>
+  <rect class="bar b2" x="0" y="86" width="400" height="14" rx="7"/>
+
+  <!-- JavaScript -->
+  <text class="label" x="0" y="130">JavaScript</text>
+  <text class="pct" x="470" y="130" text-anchor="end">75%</text>
+  <rect class="track" x="0" y="138" width="470" height="14" rx="7"/>
+  <rect class="bar b3" x="0" y="138" width="353" height="14" rx="7"/>
+
+  <!-- Unreal Engine -->
+  <text class="label" x="0" y="182">Unreal Engine</text>
+  <text class="pct" x="470" y="182" text-anchor="end">70%</text>
+  <rect class="track" x="0" y="190" width="470" height="14" rx="7"/>
+  <rect class="bar b4" x="0" y="190" width="329" height="14" rx="7"/>
+
+  <!-- Blender -->
+  <text class="label" x="0" y="234">Blender</text>
+  <text class="pct" x="470" y="234" text-anchor="end">65%</text>
+  <rect class="track" x="0" y="242" width="470" height="14" rx="7"/>
+  <rect class="bar b5" x="0" y="242" width="305" height="14" rx="7"/>
+</svg>
