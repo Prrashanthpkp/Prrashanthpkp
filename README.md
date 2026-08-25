@@ -24,7 +24,7 @@
 
 <!-- ===== SKILL LOADOUT ===== -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Prrashanthpkp/Prrashanthpkp/main/icons/skills.svg" height="22" align="center"/>
+  <picture><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzZmI5NTAiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxsaW5lIHgxPSI0IiB5MT0iMjAiIHgyPSI0IiB5Mj0iMTIiLz48bGluZSB4MT0iMTAiIHkxPSIyMCIgeDI9IjEwIiB5Mj0iNiIvPjxsaW5lIHgxPSIxNiIgeTE9IjIwIiB4Mj0iMTYiIHkyPSI5Ii8+PGxpbmUgeDE9IjIyIiB5MT0iMjAiIHgyPSIyMiIgeTI9IjMiLz48L3N2Zz4=" height="22" align="center"/></picture>
   &nbsp;Skill Loadout
 </h2>
 
@@ -36,7 +36,7 @@
 
 <!-- ===== STATS ===== -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Prrashanthpkp/Prrashanthpkp/main/icons/stats.svg" height="22" align="center"/>
+  <picture><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzZmI5NTAiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI1Ii8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMS41IiBmaWxsPSIjM2ZiOTUwIi8+PC9zdmc+" height="22" align="center"/></picture>
   &nbsp;Player Stats
 </h2>
 
@@ -55,7 +55,7 @@
 
 <!-- ===== TECH STACK ===== -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Prrashanthpkp/Prrashanthpkp/main/icons/stack.svg" height="22" align="center"/>
+  <picture><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzZmI5NTAiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwb2x5Z29uIHBvaW50cz0iMTIgMiAyMiA4LjUgMTIgMTUgMiA4LjUgMTIgMiIvPjxwb2x5bGluZSBwb2ludHM9IjIgMTUuNSAxMiAyMiAyMiAxNS41Ii8+PHBvbHlsaW5lIHBvaW50cz0iMiAxMiAxMiAxOC41IDIyIDEyIi8+PC9zdmc+" height="22" align="center"/></picture>
   &nbsp;Tech Stack
 </h2>
 
@@ -100,7 +100,7 @@
 
 <!-- ===== SNAKE ===== -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Prrashanthpkp/Prrashanthpkp/main/icons/snake.svg" height="22" align="center"/>
+  <picture><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzZmI5NTAiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0zIDZjNCAwIDQgNSA4IDVzNC01IDgtNSIvPjxwYXRoIGQ9Ik0zIDEzYzQgMCA0IDUgOCA1czQtNSA4LTUiLz48Y2lyY2xlIGN4PSIyMCIgY3k9IjYiIHI9IjEiIGZpbGw9IiMzZmI5NTAiLz48L3N2Zz4=" height="22" align="center"/></picture>
   &nbsp;Contribution Snake
 </h2>
 
