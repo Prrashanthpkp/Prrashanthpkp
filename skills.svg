@@ -4,7 +4,7 @@
     .label { font-size: 14px; font-weight: 600; }
     .pct   { font-size: 12px; fill: #7ee787; }
     .track { fill: #10231a; }
-    .bar   { fill: url(#grad); rx: 6; }
+    .bar   { fill: url(#grad); }
     @keyframes grow { from { width: 0; } }
     .b1 { animation: grow 1.4s cubic-bezier(.2,.8,.2,1) forwards; }
     .b2 { animation: grow 1.4s .15s cubic-bezier(.2,.8,.2,1) forwards; }
@@ -19,33 +19,33 @@
     </linearGradient>
   </defs>
 
-  <!-- HTML/CSS -->
-  <text class="label" x="0" y="26">HTML &amp; CSS</text>
-  <text class="pct" x="470" y="26" text-anchor="end">95%</text>
+  <!-- React.js -->
+  <text class="label" x="0" y="26">React.js</text>
+  <text class="pct" x="470" y="26" text-anchor="end">90%</text>
   <rect class="track" x="0" y="34" width="470" height="14" rx="7"/>
-  <rect class="bar b1" x="0" y="34" width="446" height="14" rx="7"/>
-
-  <!-- Bootstrap -->
-  <text class="label" x="0" y="78">Bootstrap</text>
-  <text class="pct" x="470" y="78" text-anchor="end">85%</text>
-  <rect class="track" x="0" y="86" width="470" height="14" rx="7"/>
-  <rect class="bar b2" x="0" y="86" width="400" height="14" rx="7"/>
+  <rect class="bar b1" x="0" y="34" width="423" height="14" rx="7"/>
 
   <!-- JavaScript -->
-  <text class="label" x="0" y="130">JavaScript</text>
-  <text class="pct" x="470" y="130" text-anchor="end">75%</text>
+  <text class="label" x="0" y="78">JavaScript (ES6+)</text>
+  <text class="pct" x="470" y="78" text-anchor="end">88%</text>
+  <rect class="track" x="0" y="86" width="470" height="14" rx="7"/>
+  <rect class="bar b2" x="0" y="86" width="414" height="14" rx="7"/>
+
+  <!-- React Native -->
+  <text class="label" x="0" y="130">React Native</text>
+  <text class="pct" x="470" y="130" text-anchor="end">82%</text>
   <rect class="track" x="0" y="138" width="470" height="14" rx="7"/>
-  <rect class="bar b3" x="0" y="138" width="353" height="14" rx="7"/>
+  <rect class="bar b3" x="0" y="138" width="385" height="14" rx="7"/>
 
-  <!-- Unreal Engine -->
-  <text class="label" x="0" y="182">Unreal Engine</text>
-  <text class="pct" x="470" y="182" text-anchor="end">70%</text>
+  <!-- Python / FastAPI -->
+  <text class="label" x="0" y="182">Python &amp; FastAPI</text>
+  <text class="pct" x="470" y="182" text-anchor="end">78%</text>
   <rect class="track" x="0" y="190" width="470" height="14" rx="7"/>
-  <rect class="bar b4" x="0" y="190" width="329" height="14" rx="7"/>
+  <rect class="bar b4" x="0" y="190" width="367" height="14" rx="7"/>
 
-  <!-- Blender -->
-  <text class="label" x="0" y="234">Blender</text>
-  <text class="pct" x="470" y="234" text-anchor="end">65%</text>
+  <!-- Android / Kotlin -->
+  <text class="label" x="0" y="234">Android / Kotlin</text>
+  <text class="pct" x="470" y="234" text-anchor="end">72%</text>
   <rect class="track" x="0" y="242" width="470" height="14" rx="7"/>
-  <rect class="bar b5" x="0" y="242" width="305" height="14" rx="7"/>
+  <rect class="bar b5" x="0" y="242" width="338" height="14" rx="7"/>
 </svg>
